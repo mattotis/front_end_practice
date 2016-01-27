@@ -1,0 +1,20 @@
+div {
+  background-color: white;
+  width: 500px;
+  height: 50px;
+}
+
+#blue {
+  background-color: red;
+}
+
+#red {
+  background-color: blue;
+  text-align: right;
+}
+
+#worthless {
+  background-color: gray;
+  text-align: center;
+  font-size: 2em;
+}
